@@ -1,0 +1,9 @@
+llama-index
+llama-index-embeddings-huggingface
+peft
+auto-gptq
+optimum
+bitsandbytes
+python-dotenv
+chromadb
+transformers
